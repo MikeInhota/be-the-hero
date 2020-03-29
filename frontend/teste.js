@@ -1,0 +1,1 @@
+const BO = 'Testando o rastreamento desta pasta';
